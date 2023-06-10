@@ -8,4 +8,4 @@ function tail(arr){
         return arr.slice(1,arr.length)       // Return the slice from 1 to the end of the array
 }
 
-// console.log(tail([1,2,3]));  Test
+// console.log(tail([1,2,3]));      Test
